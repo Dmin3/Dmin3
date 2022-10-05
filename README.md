@@ -26,4 +26,4 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmin3&layout=compact&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmin&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmin3&show_icons=true&theme=dracula)
