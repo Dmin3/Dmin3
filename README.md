@@ -6,7 +6,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d_min3)](https://solved.ac/백준아이디/)
 
 ### 🛠 Stack
----
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -16,7 +15,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### 📚 Tool
----
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
