@@ -5,8 +5,6 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d_min3)](https://solved.ac/백준아이디/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmin&show_icons=true&theme=dracula)
-
 ### 🛠 Stack
 ---
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -25,3 +23,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmin3&layout=compact&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmin&show_icons=true&theme=dracula)
