@@ -1,5 +1,4 @@
-
-
+## 👋 안녕하세요! 반갑습니다! 👋
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d_min3)](https://solved.ac/백준아이디/)
