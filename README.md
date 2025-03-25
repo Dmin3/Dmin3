@@ -1,7 +1,6 @@
-## 👋 안녕하세요! 반갑습니다! 👋
 
-### 📂 My Blog
-<a href="https://dmin.notion.site/Dmin-Home-78fb0097ab3347c18431533fc05b1a15" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d_min3)](https://solved.ac/백준아이디/)
 
